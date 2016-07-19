@@ -38,7 +38,7 @@ go run main.go "Yooohhooooooo" XXXXXXXXXXXXD9824E88A458A225DD31C79EC4CEFD0C6DFE4
 
 There is prebuilded executables I generate in from my MBP. 
 
-./apnstester-darwin "Yeyeyeye" XXXXXXXXXXXXD9824E88A458A225DD31C79EC4CEFD0C6DFE46C03AAFF3A4E123123
+```./apnstester-darwin "Yeyeyeye" XXXXXXXXXXXXD9824E88A458A225DD31C79EC4CEFD0C6DFE46C03AAFF3A4E123123```
 
 ```apnstester-darwin``` generated using ```go build```
 
