@@ -1,7 +1,7 @@
 # apnstester
 Simple tester for APNS connection. I use this to test if an server is able to trigger an apple notification.
 
-I depend on these work other people to create this :
+I depend on these work of other people to create this :
 
   - "github.com/sideshow/apns2"
   - "github.com/sideshow/apns2/certificate"
