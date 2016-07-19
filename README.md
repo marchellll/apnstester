@@ -19,7 +19,7 @@ Please edit config.json as needed. And ofcourse you need your **.p12** file.
 }
 ```
 
-```P12filePath``` is your where .p12 file. 
+```P12filePath``` is your .p12 file path. 
 ```P12password``` is your .p12 password. 
 ```Topic``` is your App ID. 
 
@@ -27,7 +27,7 @@ Please edit config.json as needed. And ofcourse you need your **.p12** file.
 
 You need Go installed in your system to build it. https://golang.org/
 
-Simple usage would be run directly from the code : 
+Simple usage would be run directly : 
 ```sh
 go run main.go "Yooohhooooooo" XXXXXXXXXXXXD9824E88A458A225DD31C79EC4CEFD0C6DFE46C03AAFF3A4E123123
 ```
