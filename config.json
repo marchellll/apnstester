@@ -1,0 +1,5 @@
+{
+  "P12filePath" : "./apns.p12",
+  "P12password": "P@ssw0rd",
+  "Topic": "com.example.Apps"
+}
