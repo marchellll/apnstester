@@ -25,6 +25,8 @@ Please edit config.json as needed. And ofcourse you need your **.p12** file.
 
 # Usage
 build it. then run it.
+**1st** argument is The payload,
+**2nd** argument is your device token
 
 ```sh
 go build
