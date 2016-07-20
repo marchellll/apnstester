@@ -36,7 +36,7 @@ go run main.go "Yooohhooooooo" XXXXXXXXXXXXD9824E88A458A225DD31C79EC4CEFD0C6DFE4
 
 # Runnables
 
-There is convenient prebuilded executables generated in OSX. You could use these if you don't want to build it first.
+There is convenient prebuilt executables generated in OSX. You could use these if you don't want to build it first.
 
 ```sh
 ./apnstester-darwin "Yeyeyeye" XXXXXXXXXXXXD9824E88A458A225DD31C79EC4CEFD0C6DFE46C03AAFF3A4E123123
